@@ -1,0 +1,26 @@
+body {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.stage-one-task {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: black;
+    color: white;
+    height: 100vh;
+    
+}
+
+.stage-one-task img{
+    border-radius: 5px;
+}
+
+.stage-one-task a {
+    text-decoration: none;
+    color: wheat;
+    
+}
